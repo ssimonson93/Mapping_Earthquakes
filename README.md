@@ -1,1 +1,2 @@
-# Mapping_Earthquakes
+# Overview of Project
+This project was conducted to develop a webpage plotting recent earthquake data from around the world to promote the Disaster Reporting Network.  Javascript was used to create functions that call API requests from different earthquake geoJSON data, while the D3, Leaflet, and Mapbox libraries were used to format this data in a webpage using HTML.  The magnitudes and locations of earthquakes are shown on a map of the world, with higher magnitudes being denoted with larger circle markers and a darker color.  Tectonic plates are also shown on the map, to illustrate the relationship between these earthquakes and fault lines.
